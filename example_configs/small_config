@@ -1,0 +1,6 @@
+spf_jvms=hotspot,openj9
+spf_java_versions=9
+spf_appservers=standalone
+spf_modes=shared
+spf_heap_sizes=64
+spf_test_runs=2

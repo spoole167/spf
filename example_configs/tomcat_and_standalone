@@ -1,0 +1,5 @@
+spf_jvms=hotspot
+spf_java_versions=8
+spf_appservers=standalone,tomcat
+spf_modes=container
+spf_heap_sizes=64
